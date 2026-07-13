@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" width="1180" alt="Pavel Kazakevich">
-</picture>
+<img src="https://raw.githubusercontent.com/pablitodon/pablitodon/master/dark.svg" width="100%" alt="Pavel Kazakevich">
 
 **Frontend Engineer** · Moscow, Russia
 

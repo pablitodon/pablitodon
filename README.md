@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" width="100%" alt="Pavel Kazakevich">
-</picture>
+<img src="dark.svg?v=2#gh-dark-mode-only" width="100%" alt="Pavel Kazakevich">
+<img src="light.svg?v=2#gh-light-mode-only" width="100%" alt="Pavel Kazakevich">
 
 <p align="center">
   <a href="https://github.com/pablitodon">
